@@ -14,7 +14,7 @@ restegc = resting electrocardiographic results: 0 = showing probable or definite
 						2 = having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
 thalachh = maximum heart rate achieved
 exng = exercise induced angina:	0 = no
-					1 = yes
+				1 = yes
 oldpeak = ST depression induced by exercise relative to rest
 slp = the slope of the peak exercise ST segment: 	0 = downsloping
 							1 = flat
