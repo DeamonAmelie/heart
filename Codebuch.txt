@@ -29,7 +29,7 @@ output = Heart disease:	0 = Heart disease (!)
 
 Insgesamt 303 Fälle im Datensatz.
 Ein Fall (38, 1, 2, 138, 175, 0, 1, 173, 0, 0, 2, 4, 2,	1) doppelt. So nicht im Originaldatensatz
-Ein Fall (60, 0, 4, 158, 305, 0, 2, 161, 0, 0, 1, 0, 3,	1) fehlt in den Kaggle Daten, ist aber im Original.
+Ein Fall (60, 0, 0, 158, 305, 0, 0, 161, 0, 0, 2, 0, 2,	0) fehlt in den Kaggle Daten, ist aber im Original.
 
  
 
